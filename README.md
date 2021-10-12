@@ -11,7 +11,9 @@ Solves blockworld with strange version of A*, depth search, and bread search.
 ### Credits
 
 Creator: Daniel Hoberman
+<br />
 Depth Search: Josh Schmitz
+<br />
 Breadth Search: Payton Burks
 
 ### License
