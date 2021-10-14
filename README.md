@@ -20,7 +20,7 @@ Breadth Search: Payton Burks
 
 MIT License
 
-Copyright (c) [2021] [Daniel Hoberman] [Adam Lee]
+Copyright (c) [2021] [Daniel Hoberman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
